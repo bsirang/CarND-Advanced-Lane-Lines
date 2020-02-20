@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [undistored_checkerboard]: ./camera_cal_undist/calibration1.jpg "Undistorted"
 [undistorted]: ./output_images/test1_undistort.jpg "Road Transformed"
 [binary]: ./output_images/test1_binary_threshold.jpg "Binary Example"
-[annotated]: ./output_images/straight_lines2_annotated.jpg "Annotated Polygon"
+[annotated]: ./output_images/straight_lines1_annotated.jpg "Annotated Polygon"
 [warped]: ./output_images/test1_warped_perspective.jpg "Warp Example"
 [fit_lines]: ./output_images/test1_fit_lines.jpg "Fit Visual"
 [result]: ./output_images/test1_final_result.jpg "Output"
