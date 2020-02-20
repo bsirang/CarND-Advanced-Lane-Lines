@@ -42,7 +42,11 @@ For every calibration image, the corners are detected and appended to a list. Ne
 
 The `cv2.undistort()` function can then be used to distort images taken from this same camera.
 
-![alt text][checkerboard] | ![alt text][undistored_checkerboard]
+**Original Image**
+![alt text][checkerboard]
+
+**Undistorted Image**
+![alt text][undistored_checkerboard]
 
 ### Pipeline (single images)
 
